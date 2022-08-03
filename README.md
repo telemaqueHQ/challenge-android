@@ -12,7 +12,7 @@ Pour le reste il n'y a pas de contrainte sur les technologies utilisées.
 **Attention**
 Les catégories devront être récupérées depuis ce fichier (il ne doit pas être embarqué dans l'application) :
 
-https://github.com/telemaqueHQ/challenge-android/blob/master/data.json
+https://raw.githubusercontent.com/telemaqueHQ/challenge-android/master/data.json
 
 Rendre l'application utilisable offline (sauvegarde locale des catégories).
 
