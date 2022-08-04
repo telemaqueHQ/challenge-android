@@ -17,3 +17,5 @@ https://raw.githubusercontent.com/telemaqueHQ/challenge-android/master/data.json
 Rendre l'application utilisable offline (sauvegarde locale des catégories).
 
 Il n'y a pas de contraintes particulières de design.
+
+Deux screenshot sont a votre disposition pour comprendre le rendu attendu.
