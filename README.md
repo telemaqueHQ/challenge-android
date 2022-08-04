@@ -18,4 +18,4 @@ Rendre l'application utilisable offline (sauvegarde locale des catégories).
 
 Il n'y a pas de contraintes particulières de design.
 
-Deux screenshot sont a votre disposition pour comprendre le rendu attendu.
+Deux screenshot sont à votre disposition pour comprendre le rendu attendu.
